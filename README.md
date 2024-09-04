@@ -15,4 +15,5 @@ Lastly, all inforation gathered from the web gets appeneded to system message of
 
 On startup, you have to set fetched webpage limit and True or False for settings such as (simple and weak, based on ChatGPT-3.5-turbo) prompt injection defence, fetching HTMLs of all the individual websites, or always forcing web search (since by default the AI may decide to not search the web, by the ChatGPT-4o-mini which I mentioned the first returning string DONOTSEARCH, which it should in case of greeting and creative requests such as for example writing a song).
 
-# This code is part of my Algorytm AI research program.
+# This code and program is part of my Algorytm AI research program.
+https://algorytm.birdtech.pl/
